@@ -1,8 +1,14 @@
 
+# Basic Form
+A minimal form
+
+My starter created with:
+npx create-react-app basic-form --use-npm
+
+Source copied from 
 
 ---------------------
 ---------------------
-
 
 # Getting Started with Create React App
 
