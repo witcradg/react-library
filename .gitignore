@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+node_modules/
+.history/
+basic-form/node_modules/
+react-library-ws.code-workspace
